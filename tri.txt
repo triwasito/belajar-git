@@ -1,0 +1,19 @@
+    1  ls
+    2  git config --global user.name "Tri Wasito"
+    3  git config --global user.email "triwasito23@gmail.com"
+    4  git config --list
+    5  git init
+    6  git add README.md
+    7  git add README.md
+    8  ls
+    9  touch readme.md
+   10  git add README.md
+   11  git commit -m "semangat"
+   12  git remote add origin https://github.com/triwasito/belajar-git.git
+   13  git push -u origin master
+   14  git remote -v
+   15  git add .
+   16  git status
+   17  git commit -m "semangat"
+   18  git push origin master
+   19  history > tri.txt
